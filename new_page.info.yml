@@ -1,0 +1,5 @@
+name: New Page
+type: module
+description: Ovo je modul za kreiranje nove stanice
+package: examples
+core_version_requirement: ^8 || ^9

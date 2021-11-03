@@ -1,0 +1,7 @@
+new_page.new:
+  path: '/new'
+  defaults:
+    _controller: '\Drupal\new_page\Controller\NewPageController::newpage'
+    _title: 'Ovo je New Page'
+  requirements:
+    _permission: 'access content'
